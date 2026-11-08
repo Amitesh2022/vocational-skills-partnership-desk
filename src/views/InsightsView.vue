@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Delivery guidance</span><h2>Every partnership needs a documented skills gap, learning outcome and accountable industry owner</h2><p>Training providers and employers can align equipment, placements and flexible modules around real workforce demand.</p></section></template>
